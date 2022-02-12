@@ -1,3 +1,3 @@
-document.getElementById('btnMakePaperclip').addEventListener('click', function() {
+function goTime() {
     alert("Hello, World!");
-});
+}
